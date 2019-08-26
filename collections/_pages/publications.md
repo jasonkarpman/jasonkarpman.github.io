@@ -8,7 +8,7 @@ order: 2
 
 Cusack, Daniela F., __Jason Karpman__, Daniel Ashdown, Qian Cao, Mark Ciochina, Sarah Halterman, Scott Lydon, and Avishesh Neupane, 2016: [Global change effects on humid tropical forests: Evidence for biogeochemical and biodiversity shifts at an ecosystem scale][cusack2016-rog]. _Reviews of Geophysics_, __54 (3)__, 523-610.
 
-Di Filippo, James, __Jason Karpman__, and J. R. DeShazo (2019). [The impacts of policies to reduce CO2 emissions within the concrete supply chain][difilippo2019-ccc]. _Cement and Concrete Composites_, __101__, 67-82.
+Di Filippo, James, __Jason Karpman__, and J. R. DeShazo, 2019: [The impacts of policies to reduce CO2 emissions within the concrete supply chain][difilippo2019-ccc]. _Cement and Concrete Composites_, __101__, 67-82.
 
 <!--## Reports-->
 
