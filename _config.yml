@@ -16,7 +16,7 @@ linkedin_username:
 # Build settings
 markdown: kramdown
 #theme: jekyll-swiss
-remote_theme: bairdlangenbrunner/swiss
+remote_theme: jasonkarpman/swiss-cheese
 plugins:
 
 include:
