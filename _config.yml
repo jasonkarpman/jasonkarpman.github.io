@@ -3,7 +3,7 @@ timezone: America/Los_Angeles
 email: jason.karpman@gmail.com
 author: Jason
 
-theme_color: black-light
+theme_color: yellow-light
 syntax_highlighting: light
 gradient_header: false
 
