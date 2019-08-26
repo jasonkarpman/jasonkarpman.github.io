@@ -1,0 +1,48 @@
+title: Jason Karpman
+timezone: America/Los_Angeles
+email: jason.karpman@gmail.com
+author: Jason
+
+theme_color: green-light
+syntax_highlighting: light
+gradient_header: false
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username:  
+github_username:  jasonkarpman
+linkedin_username:  
+
+# Build settings
+markdown: kramdown
+#theme: jekyll-swiss
+remote_theme: bairdlangenbrunner/swiss
+plugins:
+
+include:
+  - _pages
+
+collections:
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page-no-title
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
