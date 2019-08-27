@@ -6,10 +6,11 @@ author: Jason
 theme_color: yellow-light
 syntax_highlighting: light
 gradient_header: false
+home_social_buttons: false
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username:  
+twitter_username:  JasonKarpman
 github_username:  jasonkarpman
 linkedin_username:  
 
